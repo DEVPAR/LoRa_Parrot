@@ -16,7 +16,7 @@
   - Sketch -> Include Library -> Manage Libraries
   - Search for "LoRa" (LoRa by Sandeep Mistry) -> Install
 - After installing the libraries copy and paste the LoRa_TRX.ino file into your Adurino IDE
-- Before flashing the firmware set the right frequency config in line 23, "URCALL" or ID in line 90 and the right borad config in line 26 - 29.
+- Before flashing the firmware set the right frequency config in line 17, "URCALL" or ID in line 90 and the right borad config in line 21 - 24.
   - Currently supported boads: TTGO T-Beam V1, TTGO LoRa32 V1, TTGO LoRa32 V2.1 
 - Compile it and upload to the board
 
