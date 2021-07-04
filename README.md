@@ -31,3 +31,5 @@
 
 
 ## Screenshots
+
+![Parrot](https://github.com/DEVPAR/LoRa_Parrot/blob/main/photo_2021-07-04_20-55-49.jpg)
