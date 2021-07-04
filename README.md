@@ -33,6 +33,12 @@
 ## Screenshots
 
 ![Parrot](https://github.com/DEVPAR/LoRa_Parrot/blob/main/photo_2021-07-04_20-55-49.jpg)
+
+
 ![Parrot](https://github.com/DEVPAR/LoRa_Parrot/blob/main/photo_2021-07-04_21-04-59.jpg)
+
+
 ![Parrot](https://github.com/DEVPAR/LoRa_Parrot/blob/main/photo_2021-07-04_21-05-09.jpg)
+
+
 ![Parrot](https://github.com/DEVPAR/LoRa_Parrot/blob/main/photo_2021-07-04_21-12-34.jpg)
