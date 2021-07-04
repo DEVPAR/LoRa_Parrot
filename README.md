@@ -22,3 +22,12 @@
 
 
 ## Usage
+
+
+- The parrot repeats everything that has ">>" in the message. Without ">>" the packet will be ignored
+- You have to assign an ID / CALL to the parrot (before compiling and flashing). 
+- The parrot adds "(Parrot: URCALL_1 / ID)" to the retransmitted package.
+- The parrot (with same ID / CALL) cannot retransmit itself to prevent loops.
+
+
+## Screenshots
