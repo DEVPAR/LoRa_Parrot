@@ -15,3 +15,6 @@
 - Install LoRa Library for Semtech SX1276/77/78/79
   - Sketch -> Include Library -> Manage Libraries
   - Search for "LoRa" (LoRa by Sandeep Mistry) -> Install
+
+
+## Usage
