@@ -87,7 +87,8 @@ Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, OLED_RST);
 
 String LoRaData;
 String message;
-String ParrotID = "DM5LG_1"; //use URCALL_1 as SSID / ID for the Parrot
+String ParrotID = "URCALL_1"; //use URCALL_1 as SSID / ID for the Parrot
+
 void setup() {
 
   //reset OLED display via software
