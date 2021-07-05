@@ -30,6 +30,13 @@
 - The parrot (with same ID / CALL) cannot retransmit itself to prevent loops.
 
 
+## LoRa_TRX
+
+- You may be also interested in my other project:[LoRa_TRX](https://github.com/DEVPAR/LoRa_TRX)
+
+
+
+
 ## Screenshots
 
 ![Parrot](https://github.com/DEVPAR/LoRa_Parrot/blob/main/photo_2021-07-04_20-55-49.jpg)
