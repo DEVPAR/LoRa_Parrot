@@ -2,7 +2,7 @@
 
 
 ## Its a proof of concept to realize a LoRa Repeater/Parrot on ESP32 LoRa Boards.
-- - You may be also interested in my other project: [LoRa_TRX](https://github.com/DEVPAR/LoRa_TRX)
+- You may be also interested in my other project: [LoRa_TRX](https://github.com/DEVPAR/LoRa_TRX)
 
 ## Installation
 
